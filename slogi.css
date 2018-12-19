@@ -1,6 +1,5 @@
 #GlavniOkvir
 {
-	background-color: none;
 	margin:0 auto 0 auto;
 	width: 1000px;
 	height: 400px; 
@@ -22,8 +21,6 @@
 	background-color: grey;
 	width:800px;
 	min-height: 300px
-	padding-top: 50px;
-	padding-bottom: 50px;
 }
 #SpodnjiRob
 {
