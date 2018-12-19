@@ -1,0 +1,54 @@
+#GlavniOkvir
+{
+	background-color: none;
+	margin:0 auto 0 auto;
+	width: 1000px;
+	height: 400px; 
+}
+#Podlaga
+{
+	display:flex; 
+	min-height: 300px;
+	width: 1000px
+}
+#LeviRob
+{
+	background-color: blue;
+	width: 200px;
+	min-height: 300px;
+}
+#SiviDel
+{
+	background-color: grey;
+	width:800px;
+	min-height: 300px
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+#SpodnjiRob
+{
+	background-color: red;
+	width: 1000px;
+	height: 100px;
+
+	display: flex;
+}
+h1
+{
+	padding-left: 400px;
+	padding-top: 10px;
+	color: white;
+}
+table, th, td
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+	background-color: white;
+	font-size: 30px;
+	margin-left: 20px;
+}
+ol
+{
+	font-size: 30px;
+	padding-left: 50px;
+}
